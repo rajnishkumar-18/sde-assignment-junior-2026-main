@@ -1,0 +1,4 @@
+workflow_id,batch_id,total_leads,yet_to_reach_out,in_progress_telephony_failed,in_progress_dialed,completed
+motor_renewal,batch_001,389,106,7,276,0
+motor_renewal,batch_002,326,86,5,235,0
+motor_renewal,batch_003,236,68,5,163,0

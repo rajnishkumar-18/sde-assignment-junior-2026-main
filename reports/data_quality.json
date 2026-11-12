@@ -1,0 +1,17 @@
+{
+  "lead_rows_total": 1032,
+  "lead_rows_rejected": 49,
+  "rejections_by_reason": {
+    "invalid_phone": 20,
+    "missing_required:customer_name": 12,
+    "missing_required:phone": 3,
+    "missing_required:policy_number": 14
+  },
+  "duplicate_lead_rows_merged": 32,
+  "field_warnings": 79,
+  "events_total": 8745,
+  "malformed_events": 8,
+  "duplicate_events_dropped": 235,
+  "orphan_events": 4809,
+  "unknown_disposition_events": 21
+}
